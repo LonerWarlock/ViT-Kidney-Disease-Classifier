@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+h2 {
+    color: #333;
+}
+img {
+    margin-top: 10px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+}

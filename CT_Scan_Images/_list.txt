@@ -1,0 +1,25 @@
+Image No from the original dataset
+
+C1 cyst 1001 
+C2 cyst 1253
+C3 cyst 1788
+C4 cyst 2300
+C5 cyst 3708
+
+N1 nml 1001
+N2 nml 3236
+N3 nml 4838
+N4 nml 4900
+N5 nml 4954
+
+S1 stn 1001
+S2 stn 1051
+S3 stn 1253
+S4 stn 1334
+S5 stn 1377
+
+T1 tmr 1010
+T2 tmr 1768
+T3 tmr 1981
+T4 tmr 2036
+T5 tmr 2088
