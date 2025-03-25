@@ -23,7 +23,7 @@ document.getElementById("imageInput").addEventListener("change", function(event)
             return response.json();
         })
         .then(data => {
-            document.getElementById("result").innerText = "Prediction: " + data.prediction;
+            document.getElementById("result").innerText = data.prediction;
         })
         .catch(error => {
             console.error("Error:", error);

@@ -24,7 +24,7 @@ transform = transforms.Compose([
 ])
 
 # Class labels
-class_names = ["cyst", "normal", "stone", "tumor"]
+class_names = ["CYST", "NORMAL", "STONE", "TUMOUR"]
 
 @app.route("/")
 def home():

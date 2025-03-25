@@ -1,0 +1,4 @@
+model-1.0
+-> trained with a dataset of 1000*4 CT Scan images.
+-> Train : Test = 76 : 24
+-> Each Class had 380 training images and 240 testing images.

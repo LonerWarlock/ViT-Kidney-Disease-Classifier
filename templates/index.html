@@ -7,8 +7,11 @@
     <h2>Upload a Kidney MRI Scan</h2>
     <input type="file" id="imageInput">
     <br>
-    <img id="preview" style="display:none; width: 300px;">
-    <h3 id="result"></h3>
+    <div>
+        <img id="preview" style="display:none; width: 300px;">
+    </div>
+
+    <h2 id="result"></h3>
     <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>

@@ -9,4 +9,11 @@ img {
     margin-top: 10px;
     border: 2px solid #ddd;
     border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+div {
+    margin-top: 30px;
+    padding: 30px;
+    display: inline-block;
 }
